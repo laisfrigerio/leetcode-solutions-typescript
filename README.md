@@ -10,17 +10,18 @@ LeetCode Solutions in TypeScript + Jest
 
 ## Medium
 
-| Challenge                                                              | Solution Date     | Tags        | *                                                   |
-| :---                                                                   |      ---          | ---         |                                                ---: |
-| [**Add Two Numbers**](https://leetcode.com/problems/add-two-numbers/)  | 6 January, 2024   | Linked List | [**Solution**](./solutions/medium/add-two-numbers/) |
+| Challenge                                                                                             | Solution Date     | Tags                | *                                                   |
+| :---                                                                                                  |      ---          | ---                 |                                                ---: |
+| [**Add Two Numbers**](https://leetcode.com/problems/add-two-numbers/)                                 | 6 January, 2024   | Linked List, BigInt | [**Solution**](./solutions/medium/add-two-numbers/) |
+| [**Longest Substring Without Repeating Characters**](https://leetcode.com/problems/add-two-numbers/)  | 6 January, 2024   | Hash Table          | [**Solution**](./solutions/medium/longest-substring-without-repeating-characters/) |
 
 ...
 
 ## 🛠️ Stack
 
 - nodejs `18.12.1`
-- typescript
-- jest `^29.5.0`
+- typescript `5.3.3`
+- jest `^29.7.0`
 - yarn `1.22.19`
 
 ## :gem: Run tests
