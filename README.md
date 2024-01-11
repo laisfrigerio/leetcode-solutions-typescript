@@ -15,6 +15,12 @@ LeetCode Solutions in TypeScript + Jest
 | [**Add Two Numbers**](https://leetcode.com/problems/add-two-numbers/)                                 | 6 January, 2024   | Linked List, BigInt | [**Solution**](./solutions/medium/add-two-numbers/) |
 | [**Longest Substring Without Repeating Characters**](https://leetcode.com/problems/add-two-numbers/)  | 6 January, 2024   | Hash Table          | [**Solution**](./solutions/medium/longest-substring-without-repeating-characters/) |
 
+## Hard
+
+| Challenge                                                                                       | Solution Date    | Tags  | *                                                             |
+| :---                                                                                            |      ---         |  ---  |                                                          ---: |
+| [**Median of Two Sorted Arrays**](https://leetcode.com/problems/median-of-two-sorted-arrays/)   | 11 January, 2024 | Sort  | [**Solution**](./solutions/hard/median-of-two-sorted-arrays/) |
+
 ...
 
 ## 🛠️ Stack
