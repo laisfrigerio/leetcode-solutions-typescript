@@ -4,22 +4,22 @@ LeetCode Solutions in TypeScript + Jest
 
 ## Easy
 
-| Challenge                                               | Solution Date     | Tags         | *                                         |
-| :---                                                    |      ---          |  ---         |                                      ---: |
-| [**Two Sum**](https://leetcode.com/problems/two-sum/)   | 28 December, 2023 |  Hash Table  | [**Solution**](./solutions/easy/two-sum/) |
+| Challenge                                                | Solution Date     | Tags       |                                        \* |
+| :------------------------------------------------------- | ----------------- | ---------- | ----------------------------------------: |
+| [**1. Two Sum**](https://leetcode.com/problems/two-sum/) | 28 December, 2023 | Hash Table | [**Solution**](./solutions/easy/two-sum/) |
 
 ## Medium
 
-| Challenge                                                                                             | Solution Date     | Tags                | *                                                   |
-| :---                                                                                                  |      ---          | ---                 |                                                ---: |
-| [**Add Two Numbers**](https://leetcode.com/problems/add-two-numbers/)                                 | 6 January, 2024   | Linked List, BigInt | [**Solution**](./solutions/medium/add-two-numbers/) |
-| [**Longest Substring Without Repeating Characters**](https://leetcode.com/problems/add-two-numbers/)  | 6 January, 2024   | Hash Table          | [**Solution**](./solutions/medium/longest-substring-without-repeating-characters/) |
+| Challenge                                                                                               | Solution Date   | Tags                |                                                                                 \* |
+| :------------------------------------------------------------------------------------------------------ | --------------- | ------------------- | ---------------------------------------------------------------------------------: |
+| [**2. Add Two Numbers**](https://leetcode.com/problems/add-two-numbers/)                                | 6 January, 2024 | Linked List, BigInt |                                [**Solution**](./solutions/medium/add-two-numbers/) |
+| [**3. Longest Substring Without Repeating Characters**](https://leetcode.com/problems/add-two-numbers/) | 6 January, 2024 | Hash Table          | [**Solution**](./solutions/medium/longest-substring-without-repeating-characters/) |
 
 ## Hard
 
-| Challenge                                                                                       | Solution Date    | Tags  | *                                                             |
-| :---                                                                                            |      ---         |  ---  |                                                          ---: |
-| [**Median of Two Sorted Arrays**](https://leetcode.com/problems/median-of-two-sorted-arrays/)   | 11 January, 2024 | Sort  | [**Solution**](./solutions/hard/median-of-two-sorted-arrays/) |
+| Challenge                                                                                        | Solution Date    | Tags |                                                            \* |
+| :----------------------------------------------------------------------------------------------- | ---------------- | ---- | ------------------------------------------------------------: |
+| [**4. Median of Two Sorted Arrays**](https://leetcode.com/problems/median-of-two-sorted-arrays/) | 11 January, 2024 | Sort | [**Solution**](./solutions/hard/median-of-two-sorted-arrays/) |
 
 ...
 
@@ -40,8 +40,7 @@ LeetCode Solutions in TypeScript + Jest
 ## 👩 Author
 
 | [<img src="https://avatars.githubusercontent.com/u/20709086?v=4" width="100px;" alt="Lais Frigério"/><br /><sub><b>@laisfrigerio</b></sub>](https://instagram.com/laisfrigerio/)<br /> |
-| :---: |
-
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 ## 📄 License
 
